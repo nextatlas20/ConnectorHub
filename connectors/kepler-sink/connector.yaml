@@ -1,0 +1,6 @@
+name: kepler-sink
+owner: platform-core
+version: 1.4.0
+runtime: python3.11
+entrypoint: kepler_sink.app:main
+schedule: "*/5 * * * *"

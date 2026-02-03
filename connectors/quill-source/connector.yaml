@@ -1,0 +1,6 @@
+name: quill-source
+owner: platform-core
+version: 0.9.2
+runtime: python3.11
+entrypoint: quill_source.app:main
+schedule: "*/5 * * * *"
