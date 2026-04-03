@@ -1,0 +1,6 @@
+name: nova-bridge
+owner: mpatel
+version: 0.8.3
+runtime: python3.11
+entrypoint: nova_bridge.app:main
+schedule: "*/5 * * * *"
