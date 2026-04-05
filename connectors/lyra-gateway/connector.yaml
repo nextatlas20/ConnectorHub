@@ -1,0 +1,6 @@
+name: lyra-gateway
+owner: awong
+version: 2.0.0
+runtime: python3.11
+entrypoint: lyra_gateway.app:main
+schedule: "*/5 * * * *"
