@@ -3,6 +3,7 @@
 ## Overview
 
 Relays Orion event envelopes to subscriber webhooks with at-least-once delivery.
+See `CHANGELOG.md` for the 1.2.0 migration notes.
 
 ## Configuration
 
