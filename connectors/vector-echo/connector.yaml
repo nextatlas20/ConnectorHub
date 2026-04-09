@@ -1,0 +1,6 @@
+name: vector-echo
+owner: tnolan
+version: 0.4.1
+runtime: python3.11
+entrypoint: vector_echo.app:main
+schedule: "*/5 * * * *"
