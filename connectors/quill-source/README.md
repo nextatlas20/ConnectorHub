@@ -6,7 +6,7 @@ Polls the Quill export bucket and stages new objects for downstream consumers.
 
 ## Configuration
 
-`QUILL_BUCKET` and `QUILL_PREFIX` are required.
+`QUILL_BUCKET` and `QUILL_PREFIX` are required. `QUILL_BATCH` defaults to 200 objects.
 
 ## Failure modes
 
