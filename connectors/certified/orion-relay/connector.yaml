@@ -1,0 +1,6 @@
+name: orion-relay
+owner: jchen
+version: 1.2.0
+runtime: python3.11
+entrypoint: orion_relay.app:main
+schedule: "*/5 * * * *"
